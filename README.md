@@ -2,6 +2,7 @@
 links of my online certifications
 
 # 2020
+- [Symfony 5 Deep Dive!](https://symfonycasts.com/certificates/7B8E220AC128)
 - [Charming Development in Symfony 5](https://symfonycasts.com/certificates/6ACE0DB0C127)
 - [API Platform Part 2: Security](https://symfonycasts.com/certificates/4A4A1F29C117)
 - [API Platform: Serious RESTful APIs](https://symfonycasts.com/certificates/1C976164C113)
