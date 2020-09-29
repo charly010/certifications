@@ -2,6 +2,7 @@
 links of my online certifications
 
 # 2020
+- [Doctrine, Symfony & the Database](https://symfonycasts.com/certificates/5F3ED2C4C131)
 - [Développer son trafic grâce au référencement naturel SEO](https://www.udemy.com/certificate/UC-51f9321d-f73e-4952-8fcc-0afcfd83ce39/)
 - [Symfony 5 Fundamentals: Services, Config & Environments](https://symfonycasts.com/certificates/BE958254C130)
 - [Symfony 5 Deep Dive!](https://symfonycasts.com/certificates/7B8E220AC128)
