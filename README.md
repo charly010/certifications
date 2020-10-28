@@ -2,6 +2,7 @@
 links of my online certifications
 
 # 2020
+- [PHP 7: The Important Stuff](https://symfonycasts.com/certificates/765291213C92)
 - [Le langage Go | Formation complète](https://www.udemy.com/certificate/UC-57c321d4-21e0-4c39-8de4-304c860d1db4/)
 - [Doctrine, Symfony & the Database](https://symfonycasts.com/certificates/5F3ED2C4C131)
 - [Développer son trafic grâce au référencement naturel SEO](https://www.udemy.com/certificate/UC-51f9321d-f73e-4952-8fcc-0afcfd83ce39/)
