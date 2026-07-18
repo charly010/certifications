@@ -1,6 +1,9 @@
 ## Certifications
 links of my online certifications
 
+# 2026
+- [Python pour le Deep Learning & le Machine Learning](https://www.udemy.com/certificate/UC-9cc4a14e-1bd9-4f20-9ca4-ad439be9b677/)
+
 # 2020
 - [PHP 7: The Important Stuff](https://symfonycasts.com/certificates/765291213C92)
 - [Le langage Go | Formation complète](https://www.udemy.com/certificate/UC-57c321d4-21e0-4c39-8de4-304c860d1db4/)
