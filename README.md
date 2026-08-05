@@ -2,6 +2,7 @@
 links of my online certifications
 
 # 2026
+- [Maîtriser Claude IA : Claude Code, Cowork, Skills, Design](https://www.udemy.com/certificate/UC-540393ba-3df5-45ae-b0e9-006b66df1ebd/)
 - [Python pour le Deep Learning & le Machine Learning](https://www.udemy.com/certificate/UC-9cc4a14e-1bd9-4f20-9ca4-ad439be9b677/)
 
 # 2020
