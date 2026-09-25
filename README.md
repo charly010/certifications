@@ -2,7 +2,7 @@
 links of my online certifications
 
 # 2026
-- [Claude code 101]([https://academy.claude.com/badges/e723cd09-8627-4b60-84ba-45dc556da520](https://academy.claude.com/badges/b51071c1-ab43-4fd2-94e2-61f93a2ec163)
+- [Claude code 101](https://academy.claude.com/badges/b51071c1-ab43-4fd2-94e2-61f93a2ec163)
 - [Claude 101](https://academy.claude.com/badges/e723cd09-8627-4b60-84ba-45dc556da520)
 - [Introduction et prise en main de Kubernetes](https://www.udemy.com/certificate/UC-c579f200-cad2-40af-af8b-5720281a6fff/)
 - [Python pour le Deep Learning & le Machine Learning](https://www.udemy.com/certificate/UC-9cc4a14e-1bd9-4f20-9ca4-ad439be9b677/)
