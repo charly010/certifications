@@ -1,4 +1,4 @@
-## Links of my online learning credentials
+Links of my online learning credentials
 
 # 2026
 - [Claude Platform 101](https://academy.claude.com/badges/66dd5c0f-79f4-4a87-9d6e-ec549fc9d2d3)
