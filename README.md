@@ -1,7 +1,7 @@
-## Certifications
-links of my online certifications
+## Links of my online learning credentials
 
 # 2026
+- [Claude Platform 101](https://academy.claude.com/badges/66dd5c0f-79f4-4a87-9d6e-ec549fc9d2d3)
 - [Claude code 101](https://academy.claude.com/badges/b51071c1-ab43-4fd2-94e2-61f93a2ec163)
 - [Claude 101](https://academy.claude.com/badges/e723cd09-8627-4b60-84ba-45dc556da520)
 - [Introduction et prise en main de Kubernetes](https://www.udemy.com/certificate/UC-c579f200-cad2-40af-af8b-5720281a6fff/)
