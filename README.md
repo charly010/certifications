@@ -3,10 +3,10 @@ Links of my online learning credentials
 # 2026
 - [Building effective human-agent teams](https://academy.claude.com/verify/ce99693405027bf6d934c9e1dc659c7a)
 - [Harmonious Development with Symfony 6](https://symfonycasts.com/certificates/43F1FE6FC141)
-- [Claude Code en action](https://academy.claude.com/badges/87a41cec-379e-4fe8-9c41-b0f8121ba37c)
-- [Claude Platform 101](https://academy.claude.com/badges/66dd5c0f-79f4-4a87-9d6e-ec549fc9d2d3)
-- [Claude Code 101](https://academy.claude.com/badges/b51071c1-ab43-4fd2-94e2-61f93a2ec163)
-- [Claude 101](https://academy.claude.com/badges/e723cd09-8627-4b60-84ba-45dc556da520)
+- [Claude Code en action](https://academy.claude.com/verify/df414c6489e8e35cc1a12aa60d5ec8da)
+- [Claude Platform 101](https://academy.claude.com/verify/d08fce28df92e77c5a2d6d4159248ec0)
+- [Claude Code 101](https://academy.claude.com/verify/91d4145ab1b0beb49c400daecbced5c0)
+- [Claude 101](https://academy.claude.com/verify/9c824edde2120020b2ec1482d6d49687)
 - [Introduction et prise en main de Kubernetes](https://www.udemy.com/certificate/UC-c579f200-cad2-40af-af8b-5720281a6fff/)
 - [Python pour le Deep Learning & le Machine Learning](https://www.udemy.com/certificate/UC-9cc4a14e-1bd9-4f20-9ca4-ad439be9b677/)
 
