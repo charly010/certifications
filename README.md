@@ -6,7 +6,7 @@ Links of my online learning credentials
 | --- | :---: | :---: |
 | Building effective human-agent teams | Anthropic | [Voir](https://academy.claude.com/verify/ce99693405027bf6d934c9e1dc659c7a) |
 | Harmonious Development with Symfony 6 | SymfonyCasts | [Voir](https://symfonycasts.com/certificates/43F1FE6FC141) |
-| Claude Code en action | Anthropic | [Voir](https://academy.claude.com/verify/df414c6489e8e35cc1a12aa60d5ec8da) |
+| Claude Code in action | Anthropic | [Voir](https://academy.claude.com/verify/df414c6489e8e35cc1a12aa60d5ec8da) |
 | Claude Platform 101 | Anthropic | [Voir](https://academy.claude.com/verify/d08fce28df92e77c5a2d6d4159248ec0) |
 | Claude Code 101 | Anthropic | [Voir](https://academy.claude.com/verify/91d4145ab1b0beb49c400daecbced5c0) |
 | Claude 101 | Anthropic | [Voir](https://academy.claude.com/verify/9c824edde2120020b2ec1482d6d49687) |
