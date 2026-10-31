@@ -1,6 +1,7 @@
 Links of my online learning credentials
 
 # 2026
+- [Building effective human-agent teams](https://academy.claude.com/badges/94b59d88-65dd-4ca0-b61b-c2c0561d1cd0)
 - [Harmonious Development with Symfony 6](https://symfonycasts.com/certificates/43F1FE6FC141)
 - [Claude Code en action](https://academy.claude.com/badges/87a41cec-379e-4fe8-9c41-b0f8121ba37c)
 - [Claude Platform 101](https://academy.claude.com/badges/66dd5c0f-79f4-4a87-9d6e-ec549fc9d2d3)
