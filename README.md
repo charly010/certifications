@@ -3,7 +3,7 @@ Links of my online learning credentials
 # 2026
 
 | Certification | Organisme | Vérification |
-| --- | --- | --- |
+| --- | --- | :---: |
 | Building effective human-agent teams | Anthropic | [Voir](https://academy.claude.com/verify/ce99693405027bf6d934c9e1dc659c7a) |
 | Harmonious Development with Symfony 6 | SymfonyCasts | [Voir](https://symfonycasts.com/certificates/43F1FE6FC141) |
 | Claude Code en action | Anthropic | [Voir](https://academy.claude.com/verify/df414c6489e8e35cc1a12aa60d5ec8da) |
@@ -16,7 +16,7 @@ Links of my online learning credentials
 # 2020
 
 | Certification | Organisme | Vérification |
-| --- | --- | --- |
+| --- | --- | :---: |
 | PHP 7: The Important Stuff | SymfonyCasts | [Voir](https://symfonycasts.com/certificates/765291213C92) |
 | Le langage Go &#124; Formation complète | Udemy | [Voir](https://www.udemy.com/certificate/UC-57c321d4-21e0-4c39-8de4-304c860d1db4/) |
 | Doctrine, Symfony & the Database | SymfonyCasts | [Voir](https://symfonycasts.com/certificates/5F3ED2C4C131) |
