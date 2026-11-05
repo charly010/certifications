@@ -4,6 +4,7 @@ Links of my online learning credentials
 
 | Certification | Organisme | Vérification |
 | --- | :---: | :---: |
+| AI Fluency: Framework and foundations | Anthropic | [Voir](https://academy.claude.com/badges/f9cb8c9d-375d-4603-a39f-200b4ba3241b) |
 | Building effective human-agent teams | Anthropic | [Voir](https://academy.claude.com/verify/ce99693405027bf6d934c9e1dc659c7a) |
 | Harmonious Development with Symfony 6 | SymfonyCasts | [Voir](https://symfonycasts.com/certificates/43F1FE6FC141) |
 | Claude Code in action | Anthropic | [Voir](https://academy.claude.com/verify/df414c6489e8e35cc1a12aa60d5ec8da) |
