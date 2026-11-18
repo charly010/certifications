@@ -4,6 +4,7 @@ Links of my online learning credentials
 
 | Certification | Organisme | Vérification |
 | --- | :---: | :---: |
+| AI Fluency for creative work | Anthropic | [Voir](https://academy.claude.com/verify/109f9b7874177a5e826e6ee995ab3391) |
 | Model Context Protocol: Advanced topics | Anthropic | [Voir](https://academy.claude.com/verify/a103796d49ced834716600e512e6bacd) |
 | Introduction to Model Context Protocol | Anthropic | [Voir](https://academy.claude.com/verify/934a8ef443ed61ff26fbc1963fd119ed) |
 | AI capabilities and limitations | Anthropic | [Voir](https://academy.claude.com/verify/293a880f78ab203cc5c767d94e66c72b) |
